@@ -19,7 +19,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Flex as="main" className={`${styles.main} ${inter.className}`} gap="2rem">
+      <Flex as="main" className={`${styles.main} ${inter.className}`} gap="2rem" direction="column" align="center" justify="center">
         <Img 
           src={`https:${banner.fields.file.url}`}
           alt={banner.fields.title}
@@ -61,9 +61,6 @@ export default function Home() {
                   </CardBody>
                  
                 </Card>
-
-
-
               )
             })
 
