@@ -1,0 +1,565 @@
+{
+  "metadata": {
+    "tags": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "29rp0bxqbuvh"
+      }
+    },
+    "id": "DtNmFGMBjHIGj9fMpKiaH",
+    "type": "Entry",
+    "createdAt": "2023-07-12T06:21:21.026Z",
+    "updatedAt": "2023-07-12T06:21:21.026Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "revision": 1,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "site"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "L00vely's Mobile Shop",
+    "body": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in \nfringilla ipsum, eu ultricies lacus. Pellentesque ut nunc at massa \neuismod venenatis et ac justo. Pellentesque eu feugiat lectus. Vivamus \nid bibendum mi. Fusce sagittis, nibh id malesuada ultrices, orci nisi \nporttitor magna, eget tempus lorem quam sed sem. Quisque vehicula \nlacinia velit ac fringilla. Nulla lectus mauris, tincidunt sed dui eget,\n placerat rhoncus neque. Vestibulum sed purus pulvinar, consequat orci \nvel, ornare nisl. Ut pharetra commodo arcu at tempus. Mauris diam diam, \nvolutpat at ante a, ultrices feugiat turpis.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "banner": {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "29rp0bxqbuvh"
+          }
+        },
+        "id": "57kxyOvOmmcXKhvQbYzCIS",
+        "type": "Asset",
+        "createdAt": "2023-07-12T06:20:10.615Z",
+        "updatedAt": "2023-07-12T06:20:10.615Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Site banner",
+        "description": "Site banner description",
+        "file": {
+          "url": "//images.ctfassets.net/29rp0bxqbuvh/57kxyOvOmmcXKhvQbYzCIS/f1779d64367e9468b9608655dceb6e5e/istockphoto-1191133276-170667a.jpg",
+          "details": {
+            "size": 24658,
+            "image": {
+              "width": 675,
+              "height": 256
+            }
+          },
+          "fileName": "istockphoto-1191133276-170667a.jpg",
+          "contentType": "image/jpeg"
+        }
+      }
+    },
+    "footer": "2023 ",
+    "products": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "29rp0bxqbuvh"
+            }
+          },
+          "id": "4xX6fT4D6APYQC9OWnEEXf",
+          "type": "Entry",
+          "createdAt": "2023-07-12T06:02:27.555Z",
+          "updatedAt": "2023-07-12T06:02:27.555Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "phone"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "imei": 2342432423,
+          "name": "Samsung A14",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in fringilla ipsum, eu ultricies lacus. Pellentesque ut nunc at massa euismod venenatis et ac justo. Pellentesque eu feugiat lectus. Vivamus id bibendum mi. Fusce sagittis, nibh id malesuada ultrices, orci nisi porttitor magna, eget tempus lorem quam sed sem. Quisque vehicula lacinia velit ac fringilla. Nulla lectus mauris, tincidunt sed dui eget, placerat rhoncus neque. Vestibulum sed purus pulvinar, consequat orci vel, ornare nisl. Ut pharetra commodo arcu at tempus. Mauris diam diam, volutpat at ante a, ultrices feugiat turpis. ",
+          "image": {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "29rp0bxqbuvh"
+                }
+              },
+              "id": "55kmJhmb37gQShP6FZKR7R",
+              "type": "Asset",
+              "createdAt": "2023-07-12T06:01:49.969Z",
+              "updatedAt": "2023-07-12T06:01:49.969Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "locale": "en-US"
+            },
+            "fields": {
+              "title": "Samsung A14",
+              "description": "Samsung A14 description",
+              "file": {
+                "url": "//images.ctfassets.net/29rp0bxqbuvh/55kmJhmb37gQShP6FZKR7R/29ccd149956bd82abc19b82d6b06be93/61PZPpjpAoL.__AC_SX300_SY300_QL70_ML2_.jpg",
+                "details": {
+                  "size": 10669,
+                  "image": {
+                    "width": 233,
+                    "height": 300
+                  }
+                },
+                "fileName": "61PZPpjpAoL.__AC_SX300_SY300_QL70_ML2_.jpg",
+                "contentType": "image/jpeg"
+              }
+            }
+          },
+          "tags": [
+            {
+              "metadata": {
+                "tags": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "29rp0bxqbuvh"
+                  }
+                },
+                "id": "38LcKnt9VN46iP3UHtxCo3",
+                "type": "Entry",
+                "createdAt": "2023-07-12T02:15:42.986Z",
+                "updatedAt": "2023-07-12T02:15:42.986Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "10MP"
+              }
+            },
+            {
+              "metadata": {
+                "tags": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "29rp0bxqbuvh"
+                  }
+                },
+                "id": "3FJqWWoSGaxqSOpin6yoVD",
+                "type": "Entry",
+                "createdAt": "2023-07-12T02:11:27.543Z",
+                "updatedAt": "2023-07-12T02:11:27.543Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "32GB"
+              }
+            },
+            {
+              "metadata": {
+                "tags": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "29rp0bxqbuvh"
+                  }
+                },
+                "id": "qOfs0F3irYjN1X1MCzSX9",
+                "type": "Entry",
+                "createdAt": "2023-07-12T02:10:48.119Z",
+                "updatedAt": "2023-07-12T02:15:30.770Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "revision": 2,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "64GB"
+              }
+            },
+            {
+              "metadata": {
+                "tags": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "29rp0bxqbuvh"
+                  }
+                },
+                "id": "1iIW7EgZCLRKhpkSERXAeB",
+                "type": "Entry",
+                "createdAt": "2023-07-12T02:16:21.056Z",
+                "updatedAt": "2023-07-12T02:16:21.056Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "Silver"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "29rp0bxqbuvh"
+            }
+          },
+          "id": "3HLzy1ZrCSUQ6ODeezCuBt",
+          "type": "Entry",
+          "createdAt": "2023-07-12T05:25:22.583Z",
+          "updatedAt": "2023-07-12T05:25:22.583Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "phone"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "imei": 131231411,
+          "name": "Xiaomi Redmi 12c",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in fringilla ipsum, eu ultricies lacus. Pellentesque ut nunc at massa euismod venenatis et ac justo. Pellentesque eu feugiat lectus. Vivamus id bibendum mi. Fusce sagittis, nibh id malesuada ultrices, orci nisi porttitor magna, eget tempus lorem quam sed sem. Quisque vehicula lacinia velit ac fringilla. Nulla lectus mauris, tincidunt sed dui eget, placerat rhoncus neque. Vestibulum sed purus pulvinar, consequat orci vel, ornare nisl. Ut pharetra commodo arcu at tempus. Mauris diam diam, volutpat at ante a, ultrices feugiat turpis. ",
+          "image": {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "29rp0bxqbuvh"
+                }
+              },
+              "id": "coyuoZgFiA6898b3pRSwH",
+              "type": "Asset",
+              "createdAt": "2023-07-12T05:24:23.769Z",
+              "updatedAt": "2023-07-12T05:24:23.769Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "locale": "en-US"
+            },
+            "fields": {
+              "title": "Xiaomi Redmi 12c",
+              "description": "Xiaomi Redmi 12c description",
+              "file": {
+                "url": "//images.ctfassets.net/29rp0bxqbuvh/coyuoZgFiA6898b3pRSwH/c1d9ae1fe444463f8647af85e6a511a0/51HcVEjx77L.__AC_SX300_SY300_QL70_ML2_.jpg",
+                "details": {
+                  "size": 6850,
+                  "image": {
+                    "width": 232,
+                    "height": 300
+                  }
+                },
+                "fileName": "51HcVEjx77L.__AC_SX300_SY300_QL70_ML2_.jpg",
+                "contentType": "image/jpeg"
+              }
+            }
+          },
+          "tags": [
+            {
+              "metadata": {
+                "tags": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "29rp0bxqbuvh"
+                  }
+                },
+                "id": "1iIW7EgZCLRKhpkSERXAeB",
+                "type": "Entry",
+                "createdAt": "2023-07-12T02:16:21.056Z",
+                "updatedAt": "2023-07-12T02:16:21.056Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "Silver"
+              }
+            },
+            {
+              "metadata": {
+                "tags": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "29rp0bxqbuvh"
+                  }
+                },
+                "id": "38LcKnt9VN46iP3UHtxCo3",
+                "type": "Entry",
+                "createdAt": "2023-07-12T02:15:42.986Z",
+                "updatedAt": "2023-07-12T02:15:42.986Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "10MP"
+              }
+            },
+            {
+              "metadata": {
+                "tags": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "29rp0bxqbuvh"
+                  }
+                },
+                "id": "3FJqWWoSGaxqSOpin6yoVD",
+                "type": "Entry",
+                "createdAt": "2023-07-12T02:11:27.543Z",
+                "updatedAt": "2023-07-12T02:11:27.543Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "32GB"
+              }
+            },
+            {
+              "metadata": {
+                "tags": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "29rp0bxqbuvh"
+                  }
+                },
+                "id": "qOfs0F3irYjN1X1MCzSX9",
+                "type": "Entry",
+                "createdAt": "2023-07-12T02:10:48.119Z",
+                "updatedAt": "2023-07-12T02:15:30.770Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "revision": 2,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "64GB"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

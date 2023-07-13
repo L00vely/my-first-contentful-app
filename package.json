@@ -1,0 +1,23 @@
+{
+  "name": "my-first-contentful-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "data": "node contentful"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.7.1",
+    "@contentful/rich-text-react-renderer": "^15.17.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "contentful": "^10.3.4",
+    "framer-motion": "^10.12.20",
+    "next": "13.4.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
